@@ -1,1 +1,0 @@
-Add logo.png, slide1.jpg, slide2.jpg, slide3.jpg in this folder.
